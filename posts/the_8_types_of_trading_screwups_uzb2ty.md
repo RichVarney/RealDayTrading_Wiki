@@ -1,0 +1,28 @@
+**Author**: u/HSeldon2020
+
+**Posted on**: 2022-05-27
+
+Original post: [https://www.reddit.com/r/RealDayTrading/comments/uzb2ty/the_8_types_of_trading_screwups/](https://www.reddit.com/r/RealDayTrading/comments/uzb2ty/the_8_types_of_trading_screwups/)
+
+Let's talk for a moment about mistakes.
+
+You know, the "fuck-ups",  the "oh shit I can't believe I did that" moments.  So much in trading is about rules and checklists that we rarely talk about the screw-ups, and chances are - *there are a lot of screw-ups.*
+
+So let's go through the different ones:
+
+1. **The "I Don't Know What The Hell I Am Doing" Mistake -** This one is far more common than it should be and strangely enough, repeatable.  They start out fairly benign - someone enters a trade, usually using options.  At some point they realize, "Oh shit, I don't know what the hell I am trading or how to get out of it!" and they wind up getting assigned, or taking the max loss on some broken Butterfly.   Now you would think this is a one time offense, right? That the moment someone loses money because they didn't know what they were doing, they go back and try to learn.  You would think that - but you would be wrong.  Many people with their "Instruction manual be damned!" mentality keep coming back thinking that the lesson they just learned has them covered, only to realize there is a whole new level of "I don't know what the fuck I am doing" waiting for them.
+2. **The "I Got A Feeling" Mistake -** This is probably the most common.  You enter a trade not based on anything empirical, or even because you followed someone you assume had empirical reasons - no, you entered it because you had a "gut feeling".  Most of them times this is predicting tops or bottoms - the ole' "It *has* to start to come down now" school of trading.  Others times it manifests itself with some brilliant theory on the market or stock that you believe nobody else thought of (otherwise it would be priced-in), and you act on this brilliance.   We all have a friend like this, with comments like, "I see electric cars everywhere - soon nobody is going to be driving a car that needs gas - Short OIL!"  Sigh.
+3. **The "Fuck it, I Am On Tilt" Mistake -** Usually seen at a casino, but often found with people that treat the stock market like a casino.  Although, to be fair, nobody is immune to this mistake.  *We all make it*.  You just had a big loss, or maybe something else in your life is bothering you - either way, you are pissed off and damnit, only a huge win is gonna make everything ok again.  So you use way too much money and let it go down way too far until you look at that huge loss and think - "What have I done?"
+4. **The "Damnit, I Forgot" Mistake -** This one sucks, because it is just from not paying attention.  It is the person that total forgot they left an /ES short on over the weekend and then on Sunday they realize - "Oh shit, I am down 30 pts!".   This also happens to people who thought they cancelled a trade or completed a trade, then proceeded to get up and walk away.  Only to learn - they did no such thing.  Weird thing about this mistake? *It literally never works in your favor!* I mean you would think it would, right? At least some of time.  But no - it always turns out to be a *costly* mistake.
+5. **The "To Hell With The Rules" Mistake -** Known in some deranged circles as "YOLO", this is someone acting like they are on tilt, but they are actually perfectly fine.  They just want to throw away anything they learned and leave it up to the gods of chance.  Basically, "I am going to buy 50 OTM Options on AMC and see what happens!" Wen Moon? Never. Never Moon my friend, never.  
+6. **The "Misread" Mistake -** One of the more respectable mistakes you can make - you simply misread the situation.  You thought SPY was going to go up based on the technical analysis, but you were wrong.  In retrospect you can see that you missed that line of Resistance right above the price.  Now if you make this mistake often then see Mistake #1.
+7. **The "Mindset" Mistake -**  This is the toughest one of all - because it is so hard to fix.  You sold too early because you were afraid the market was going to take away your profit, you held too long because you were hoping it would turn around, you used too big of a position size because you feel like you need the big win now, etc..etc.  Making a trade because you are bored, overtrading, the list goes on and on. All of these mistakes are because of mindset issues - and those issues generally have deep underlying causes that need to be dealt with in order to fix it.   The thing that really sucks about this mistake? You always promise yourself that you will be better next time.  Sadly, you make that promise often.
+8. **The "I Can't Lose This Money" Mistake -** Trading with scared or desperate money is trading scared or desperate.  Now I am not talking about your savings, although obviously nobody wants to lose that.  I am talking about the people who trade with that month's rent money.  If you are in need of cash that badly that you are risking the rent money, there is no way you will be able to trade the way you need to in order to be successful.
+
+We all make mistakes, but it is helpful to know what kind we are making - look over this list and see if any of them applies to you more often than not.  If so, each of these mistakes have a solution - but first you need to identify the problem.
+
+Best, H.S.
+
+**Real Day Trading Twitter:** [twitter.com/realdaytrading](https://twitter.com/realdaytrading)
+
+**Real Day Trading YouTube:** [https://www.youtube.com/c/RealDayTrading](https://www.youtube.com/c/RealDayTrading)
