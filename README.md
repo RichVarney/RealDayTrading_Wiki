@@ -1,7 +1,13 @@
 # RealDayTrading_Wiki
-Downloads the contents of the reddit /r/RealDayTrading wiki "The Damn Wiki" and converts to a HTML file containing all reddit posts and embedded/linked images.  
+Downloads the contents of the reddit /r/RealDayTrading [wiki](https://www.reddit.com/r/RealDayTrading/wiki/) and converts to a HTML file containing all reddit posts and embedded/linked images.  
 
-An EPUB e-book  ```The Damn Wiki - Hari Seldon.epub``` has also been included, which was converted using [Calibre](https://calibre-ebook.com/). This might be useful for those wishing to read on an e-book or mobile device. You can also convert to PDF or DOCX as you wish.
+An EPUB e-book  [The Damn Wiki - Hari Seldon.epub](https://github.com/RichVarney/RealDayTrading_Wiki/blob/main/The%20Damn%20Wiki%20-%20Hari%20Seldon.epub) has also been included, which was converted using [Calibre](https://calibre-ebook.com/). This might be useful for those wishing to read on an e-book or mobile device. You can also convert to PDF or DOCX as you wish.
+
+[<img src="Front%20cover.png" width="200">](https://github.com/RichVarney/RealDayTrading_Wiki/blob/main/The%20Damn%20Wiki%20-%20Hari%20Seldon.epub)
+
+
+
+If you want to create the HTML file for yourself, follow the instructions below:
 
 ## Requirements:
 beautifulsoup4, praw, urllib3
