@@ -89,6 +89,7 @@ def fetch_external_content(url):
 def process_bullet_links(content):
     lines = content.splitlines()
     sub_chapters = []
+    lingo_section = False
     for line in lines:
         match = re.search(r'\d{2}-[a-zA-Z]{3}-\d{4} - (.+) - (.+)\((https?://[^\)]+)\)', line)
         # chapter_title = re.search(r'^# .+\b', line)
@@ -101,6 +102,7 @@ def process_bullet_links(content):
         user = re.search(r'`u\/(.+)`', line)
         date_of_post = re.search(r'\* (\d{1,2}-(?:[a-zA-Z]{3,4}|\d{2})-\d{4})', line)  # long expression as matches e.g. 10-Oct-2022 OR 10-10-2022
         post_no_date = re.search(r'(\* \[)', line)
+        lingo = re.search(r'(\* [a-zA-Z*(]+)', line)
         # style = None
         # if heading_1:
         #     style = "heading_1"
@@ -122,6 +124,13 @@ def process_bullet_links(content):
                     sub_chapters.append(f"### {title}\n\n{post_content}\n")
         except:
             pass # TODO this is things like twitter posts and other URLs
+        if line == "# Lingo/Jargon":
+            lingo_section = True
+        try:
+            if lingo_section and lingo:
+                sub_chapters.append(f"{line}\n")
+        except:
+            pass
     return sub_chapters
 
 def create_epub_structure(wiki_content):
