@@ -23,6 +23,8 @@ Then run the file with:
 
     python download_RealDayTrading_wiki.py  
 
+This will download all posts and images in the wiki, combine them into one HTML file which can then be converted to EPUB by Calibre, for example.
+
 ## Result:
 ./wiki_output.html  
 ./images  
